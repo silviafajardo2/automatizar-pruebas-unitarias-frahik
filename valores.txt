@@ -1,0 +1,15 @@
+0001:Media Aritmetica:1,2,3:2.0
+0002:Raiz Enesima:1:1.0
+0003:Media Geometrica:1,2,3,4,5:2.6051710847
+0004:Media Armonica:1,2,3,4,5:-
+0005:Raiz Enesima:5,1:5.0
+0006:Media Geometrica:5:5.0
+0007:Media Armonica:1:-
+0008:Media Aritmetica:100,200,500:266.666666667
+0009:Raiz Enesima:500,100:1.06411778075
+0010:Media Armonica:12031,12312,123:-
+0011:Media Geometrica:13,31,32,42,23:26.2474084852
+0012:Media Armonica:12,12,132,123,12,13,12:-
+0013:Media Geometrica:123,54,68,90,43,32:61.8412303217
+0014:Raiz Enesima:120,2:10.9544511501
+0015:Raiz Enesima:345,9:1.91416732914
